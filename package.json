@@ -1,0 +1,23 @@
+{
+    "name": "easy-weex-loader",
+    "version": "1.0.0",
+    "description": "EasyWeex loader",
+    "main": "index.js",
+    "scripts": {
+    },
+    "keywords": [
+        "weex",
+        "EasyWeex"
+    ],
+    "author": "Alex Chen",
+    "license": "MIT",
+    "engines": {
+        "node": ">=8.0.0"
+    },
+    "engineStrict": true,
+    "dependencies": {
+        "esprima": "^4.0.1",
+        "recast": "^0.15.5",
+        "vue-template-compiler": "^2.5.17"
+    }
+}
